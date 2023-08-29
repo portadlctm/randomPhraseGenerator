@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 /**
  * A series of tests for the RandomPhraseGenerator Class.
- * @author Albert Fernando, Joseph Porta
+ * @author  Joseph Porta
  *
  */
 public class RandomPhraseGeneratorTests {
