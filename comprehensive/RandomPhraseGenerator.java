@@ -9,7 +9,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 /**
- * @author Joseph Porta, and AJ Fernando
+ * @author Joseph Porta
  * Generates a given number of random phrases that follow grammatical rules given by a file.
  * 
  */
